@@ -1,12 +1,21 @@
-- 👋 Hi, I’m Muahmmad Haider
-- 👀 I’m interested in  AI, machine learning, and web development
-- 🌱 I’m currently learning I'm currently learning more about natural language processing and TensorFlow
-- 💞️ I’m looking to collaborate on I'm looking to collaborate on projects that involve AI-powered web applications or machine learning-based problem-solving
-- 📫 How to reach me : [haiderkhaan0800@gmail.com] or [https://www.linkedin.com/in/haider-khan-6792a4271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
-- 😄 Pronouns : He/Him
-- ⚡ Fun fact : I'm an avid learner and enjoy exploring new technologies in my free time!
+👋 Hi, I'm Muhammad Haider
+🚀 Aspiring Data Scientist | Machine Learning Enthusiast
+🌟 About Me
+🎓 Computer Science undergraduate (6th semester)
+📊 Skilled in Python, SQL, and Databases
+🤖 Currently focused on Data Science & Machine Learning
+💡 Passionate about solving problems through data-driven insights
+🛠️ Skills
+Programming: Python, C
+Data Handling: SQL, MySQL, Pandas, NumPy
+Visualization: Matplotlib
+Core Areas: Data Analysis, Machine Learning (beginner)
+📂 Current Focus
+Building ML models for real-world datasets
+Strengthening mathematical & statistical foundations
+Developing end-to-end Data Science projects
+📫 Connect With Me
+💼 LinkedIn https://www.linkedin.com/in/76haiderkhan
+📧 haiderkhaan0800@gmail.com
 
-<!---
-76haider/76haider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⚡ Passionate about turning raw data into meaningful intelligence.
